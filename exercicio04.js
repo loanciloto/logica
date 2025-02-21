@@ -1,0 +1,11 @@
+let a= 10;
+let b= 15;
+let c= 20;
+let soma= a+b+c;
+console.log("O resultado da soma é:"+soma);
+let multiplicacao = a*b*c;
+console.log ("O resultado da multiplicacao é:"+multiplicacao);
+let divisao = a/b/c;
+console.log ("O resultado da divisao é:"+divisao);
+let subtracao = a-b-c;
+console.log ("O resultado da subtracao é:"+subtracao);
